@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">About Nigeria Quiz App</string>
+
+    <string name="question1">1. Nigeria is in what region of Africa Continent?</string>
+    <string name="question1_choice1">North Africa</string>
+    <string name="question1_choice2">West AFrica</string>
+    <string name="question1_choice3">East Africa</string>
+
+    <string name="question2">2. What is the Federal Capital of Nigeria?</string>
+
+    <string name="question3">3. Which of the following is true about Nigeria.</string>
+    <string name="question3_choice1">Share border with Ivory Coast </string>
+    <string name="question3_choice2">It has 36 States</string>
+    <string name="question3_choice3">Its coast in the south lies Pacific Ocean</string>
+    <string name="question3_choice4">It practice Democratic System of Government</string>
+
+    <string name="question4">4. A citizen of Nigeria is called?</string>
+
+    <string name="question5">5 What is the name of the largest city in Nigeria?</string>
+    <string name="question5_choice1">Ibadan</string>
+    <string name="question5_choice2">Lagos</string>
+    <string name="question5_choice3">Abuja</string>
+
+    <string name="question6">6. Nigeria became a formally independent federation in year?</string>
+
+    <string name="question7">7. Two out of the following is Nigeria tribal group?</string>
+    <string name="question7_choice1">Swahili</string>
+    <string name="question7_choice2">Yoruba</string>
+    <string name="question7_choice3">Igbo</string>
+    <string name="question7_choice4">Zulu</string>
+
+    <string name="question8">8. Nigeria achieved a stable democracy in what year?</string>
+
+    <string name="question9">9. Nigeria experienced a civil war from when to when?</string>
+    <string name="question9_choice1">1967 to 1970</string>
+    <string name="question9_choice2">1969 to 1972</string>
+
+    <string name="question10">10. Nigeria is often referred to as the?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+</resources>
